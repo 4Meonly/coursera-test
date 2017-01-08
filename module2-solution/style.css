@@ -1,7 +1,7 @@
 h1{color:pink;}
 
-p{background-color: grey;width: 100px height:100px; display: inline-block; }
+p{background: grey;width: 100px height:100px; display: inline-block;position: absolute; }
 
-.chicken{background-color: pink;}
-.beef{background-color: red;}
-.sushi{background-color: tan;}
+.food{background-color: pink;position: relative;}
+.cow{background-color: red;position: relative;}
+.fish{background-color: tan;position: relative;}
