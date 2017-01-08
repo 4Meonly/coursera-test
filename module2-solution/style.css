@@ -6,14 +6,14 @@ p{background: grey;width: 400px; height:150px;
  border:black 2px solid;   }
 
 .food{border:black 2px solid;position:relative;top:200px;
- right:10px; background-color:pink;width:70px; height:20px;position: relative;}
+ right:10px; background-color:pink;width:70px; height:20px;position: absolute;}
 
-.cow{background: red;border:black 2px solid;height: 20px; width: 70px;position: relative;}
+.cow{background: red;border:black 2px solid;height: 20px; width: 70px;position: absolute;}
 
-.fish{background: tan;border:black 2px solid;height: 20px; width: 70px;position: relative;
+.fish{background: tan;border:black 2px solid;height: 20px; width: 70px;position: absolute;}
 
-.div1{position: absolute;top:200px;}
+.div1{position: relative;top:200px;}
 
-.div2{position: absolute; top: 200px; left: 430px;}
+.div2{position: relative; top: 200px; left: 430px;}
 
-.div3{position: absolute;top:200px;left:840px;}
+.div3{position: relative;top:200px;left:840px;}
