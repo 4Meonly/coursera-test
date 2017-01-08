@@ -11,8 +11,8 @@ p{background: grey;width: 400px; height:150px;
 
 .fish{background: tan;border:black 2px solid;height: 20px; width: 70px;position: absolute;left:330px;}
 
-.div1{position: relative;top:200px;margin-top: -40px;}
+.div1{position: relative;top:200px;margin-top: -80px;}
 
 .div2{position: relative;  left: 430px; margin-top: -20px;}
 
-.div3{position: relative;left:840px;margin-top: -170px}
+.div3{position: relative;left:850px;margin-top: -165px}
