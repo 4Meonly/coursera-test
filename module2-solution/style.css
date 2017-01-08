@@ -11,9 +11,3 @@ div.food{border:black 2px solid;position:relative;top:200px;
 .cow{background: red;border:black 2px solid;height: 20px; width: 70px;}
 
 .fish{background: tan;border:black 2px solid;height: 20px; width: 70px;}
-
-.p1{float: left;}
-
-.p2{align-content:center ;}
-
-.p3{float: right;}
