@@ -1,8 +1,8 @@
 h1{color:pink;text-align: center;}
 
-*{box-sizing: border-box;}
+*{box-sizing: border-box;margin: auto;}
 
-p{background: grey;width: 150px; height:150px;
+p{background: grey;width: 250px; height:150px;
  border:black 2px solid;positon:absolute; display: inline; }
 
 div.food{border:black 2px solid;position:relative;top:200px;
