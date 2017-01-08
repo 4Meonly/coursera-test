@@ -2,7 +2,7 @@ h1{color:pink;text-align: center;}
 
 *{box-sizing: border-box;}
 
-p{background: grey;width: 150px height:150px;
+p{background: grey;width: 150px; height:150px;
  border:black 2px solid;positon:absolute; }
 
 div.food{border:black 2px solid;position:relative;top:200px;
