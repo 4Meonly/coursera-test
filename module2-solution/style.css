@@ -12,8 +12,8 @@ div.food{border:black 2px solid;position:relative;top:200px;
 
 .fish{background: tan;border:black 2px solid;height: 20px; width: 70px;}
 
-.p1{position: absolute;}
+.p1{position: absolute;top:400px;}
 
-.p2{position: absolute; margin-left: 450px;}
+.p2{position: absolute; top: 400px; left: 425px;}
 
-.p3{position: absolute;margin-right: 10px;}
+.p3{position: absolute;top:400px;left:825px;}
