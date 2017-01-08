@@ -3,7 +3,7 @@ h1{text-align: center;}
 *{box-sizing: border-box;}
 
 p{background: grey;width: 400px; height:150px;
- border:black 2px solid;   }
+ border:black 2px solid; display: inline-block;  }
 
 .food{border:black 2px solid; background:pink;width:70px; height:20px;position: absolute;}
 
