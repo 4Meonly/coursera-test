@@ -1,6 +1,6 @@
 h1{text-align: center;}
 
-*{box-sizing: border-box;margin: auto;}
+*{box-sizing: border-box;}
 
 p{background: grey;width: 250px; height:150px;
  border:black 2px solid;positon:absolute;  }
