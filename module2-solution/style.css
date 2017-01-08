@@ -6,11 +6,11 @@ p{background: grey;width: 400px; height:150px;
  border:black 2px solid;   }
 
 .food{border:black 2px solid;position:relative;top:200px;
- right:10px; background-color:pink;width:70px; height:20px;}
+ right:10px; background-color:pink;width:70px; height:20px;position: relative;}
 
-.cow{background: red;border:black 2px solid;height: 20px; width: 70px;}
+.cow{background: red;border:black 2px solid;height: 20px; width: 70px;position: relative;}
 
-.fish{background: tan;border:black 2px solid;height: 20px; width: 70px;}
+.fish{background: tan;border:black 2px solid;height: 20px; width: 70px;position: relative;
 
 .div1{position: absolute;top:200px;}
 
