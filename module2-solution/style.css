@@ -5,7 +5,7 @@ h1{text-align: center;}
 p{background: grey;width: 400px; height:150px;
  border:black 2px solid; display: inline;  }
 
-.food{border:black 2px solid; background:pink;width:70px; height:20px;position: absolute;}
+.food{border:black 2px solid; background:pink;width:70px; height:20px;position: absolute;right: 2px}
 
 .cow{background: red;border:black 2px solid;height: 20px; width: 70px;position: absolute;}
 
