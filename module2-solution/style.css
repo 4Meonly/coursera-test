@@ -1,7 +1,7 @@
 h1{color:pink;text-align: center;}
 *{box-sizing: border-box;}
-p{background: grey;width: 50px height:50px; display: inline;border:black 2px solid; }
+p{background: grey;width: 150px height:150px; border:black 2px solid;positon:absolute; }
 
-div.food{background: pink;border:black 2px solid;}
-div.cow{background: red;border:black 2px solid;}
-div.fish{background: tan;border:black 2px solid;}
+div.food{border:black 2px solid;position:relative;top:200px; right:10px; background-color:pink;width:70px; height:20px;}
+.cow{background: red;border:black 2px solid;}
+.fish{background: tan;border:black 2px solid;}
