@@ -14,6 +14,6 @@ p{background: grey;width: 400px; height:150px;
 
 .div1{position: relative;top:200px;}
 
-.div2{position: relative; top: 200px; left: 430px;}
+.div2{position: relative;  left: 430px;}
 
-.div3{position: relative;top:200px;left:840px;}
+.div3{position: relative;left:840px;}
