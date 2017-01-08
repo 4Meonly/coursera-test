@@ -3,7 +3,7 @@ h1{text-align: center;}
 *{box-sizing: border-box;}
 
 p{background: grey;width: 250px; height:150px;
- border:black 2px solid;display: inline;  }
+ border:black 2px solid;display: inline-block;  }
 
 div.food{border:black 2px solid;position:relative;top:200px;
  right:10px; background-color:pink;width:70px; height:20px;}
@@ -11,3 +11,5 @@ div.food{border:black 2px solid;position:relative;top:200px;
 .cow{background: red;border:black 2px solid;height: 20px; width: 70px;}
 
 .fish{background: tan;border:black 2px solid;height: 20px; width: 70px;}
+
+
