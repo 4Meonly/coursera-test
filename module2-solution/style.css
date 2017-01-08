@@ -6,8 +6,14 @@ p{background: grey;width: 250px; height:150px;
  border:black 2px solid;positon:absolute;  }
 
 div.food{border:black 2px solid;position:relative;top:200px;
- right:10px; background-color:pink;width:70px; height:20px;float: right;}
+ right:10px; background-color:pink;width:70px; height:20px;}
 
-.cow{background: red;border:black 2px solid;height: 20px; width: 70px;margin: auto;}
+.cow{background: red;border:black 2px solid;height: 20px; width: 70px;}
 
-.fish{background: tan;border:black 2px solid;height: 20px; width: 70px;float: left;}
+.fish{background: tan;border:black 2px solid;height: 20px; width: 70px;}
+
+.p1{float: right;}
+
+.p2{margin: auto;}
+
+.p3{float: left;}
