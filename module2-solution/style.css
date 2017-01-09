@@ -20,9 +20,9 @@ p{background: grey;width: 400px; height:150px;
 .row{width: 100%;}
 
 /*small devices*/
-@media(max-width:767px) {p{display: block;}
+@media(max-width:767px) 
 }
-.col-lg-4{33%;} .
+.col-lg-4{33%;} 
 /*medium devices*/
 @media(min-width:768px)and (max-width: 991px)col-md-1, .col-md-2, .col-md-3, .col-md-4, .col-md-5, .col-md-6, .col-md-7, .col-md-8, .col-md-9, .col-md-10, .col-md-11, .col-md-12 { float:left;} 
 .col-md-1 {width: 8.33%;} 
