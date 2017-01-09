@@ -22,4 +22,5 @@ p{background: grey;width: 400px; height:150px;
 }
 
 /*medium devices*/
-@media(min-width:768px)and (max-width: 991px) {.div3{display: block; width: 90%; }}
+@media(min-width:768px)and (max-width: 991px) {.div3{display: block; width: 90%;clear: both; }
+.div1{float: left;}.div2{float: right;}
