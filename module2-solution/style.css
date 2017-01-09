@@ -19,7 +19,7 @@ p{background: grey;width: 400px; height:150px;
 
 /*small devices*/
 @media(max-width:767px) {.div1 {width: 200px; float: left;}
-    .div2 {margin-left:216px;}
+    .div2 {width: 200px; float: left; .div3{width: 200px; float: left;}}
 }
 
 /*medium devices*/
