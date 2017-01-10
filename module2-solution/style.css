@@ -11,7 +11,7 @@ p{background: grey;width: 400px;
 
 .fish{background: tan;border:black 2px solid;height: 20px; width: 70px;position: absolute;left:330px;}
 
-
+.row{width: 100%}
 
 /*small devices*/
 @media (max-width:767px) { 
