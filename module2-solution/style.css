@@ -13,14 +13,14 @@ p{background: grey;width: 400px; height:150px;
 
 .div1{position: relative;top:150px;}
 
-.div2{position: relative;  left: 430px; margin-top: -20px;}
+.div2{position: relative;  left: 430px; margin-top: -22px;}
 
 .div3{position: relative;left:860px;margin-top: -165px;}
 
 .row{width: 100%;}
 
 /*small devices*/
-@media all and(max-width:767px) { 
+@media (max-width:767px) { 
 .col-sm-1, .col-lg-2, .col-lg-3, .col-lg-4, .col-lg-5, .col-lg-6, .col-lg-7, .col-lg-8, .col-lg-9, .col-lg-10, .col-lg-11, .col-lg-12 { float:left; padding-left: 
 1px;padding-right: 1px;margin-right: 10px;margin-bottom: 10px;margin-top: 10px;margin-left: 10px;} 
 .col-sm-1 {width: 8.33%;} 
