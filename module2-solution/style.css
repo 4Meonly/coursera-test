@@ -10,7 +10,7 @@ p{background: grey;width: 400px;  text-align: center;
 
 .cow{background: red;border:black 2px solid;height: 20px; width: 70px;position: absolute;}
 
-.fish{background: tan;border:black 2px solid;height: 20px; width: 70px;position: absolute;top: 0px;right: 0px;}
+.fish{background: tan;border:black 2px solid;height: 20px; width: 70px;position: absolute;left: 380px}
 
 .row{width: 100%}
 
