@@ -3,7 +3,7 @@
 
 *{box-sizing: border-box;}
 
-p{background: grey;width: 400px; height:150px; text-align: justify;
+p{background: grey;width: 400px;  text-align: justify;
  border:black 2px solid;padding-top:15px;}
 
 .food{border:black 2px solid; background:pink;width:70px; height:20px;position: absolute;}
