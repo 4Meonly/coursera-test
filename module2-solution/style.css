@@ -6,11 +6,11 @@
 p{background: grey;width: 400px;  text-align: center;
  border:black 2px solid;padding-top:30px;}
 
-.food{border:black 2px solid; background:pink;width:70px; height:20px;position: absolute;left: 330px;}
+.food{border:black 2px solid; background:pink;width:70px; height:20px;position: absolute;left: 340px;}
 
-.cow{background: red;border:black 2px solid;height: 20px; width: 70px;position: absolute;left: 330px;}
+.cow{background: red;border:black 2px solid;height: 20px; width: 70px;position: absolute;left: 340px;}
 
-.fish{background: tan;border:black 2px solid;height: 20px; width: 70px;position: absolute;left: 330px;}
+.fish{background: tan;border:black 2px solid;height: 20px; width: 70px;position: absolute;left: 340px;}
 
 .row{width: 100%}
 
